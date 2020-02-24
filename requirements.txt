@@ -8,7 +8,7 @@ backports.shutil-get-terminal-size==1.0.0
 backports.weakref==1.0rc1
 basemap==1.0.7
 beautifulsoup4==4.6.0
-bleach==1.5.0
+bleach==3.1.1
 cartopy==0.14.2
 casuarius==1.1
 catalyst==1.1.2
